@@ -1,0 +1,8 @@
+{
+  "name": "6 fb SmartPDV Pro+ APK",
+  "description": "Sistema completo de PDV e gestão comercial com inteligência artificial para análise de vendas e gestão financeira.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
